@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "555836662051",
+    "project_id": "revalesuva-35295",
+    "storage_bucket": "revalesuva-35295.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555836662051:android:55cb2db071811149a56c96",
+        "android_client_info": {
+          "package_name": "com.app.revalesuva"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXgdB0JKZWJtd6UZqXZ8Q74iAa8-Q4a6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
