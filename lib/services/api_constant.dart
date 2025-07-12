@@ -18,11 +18,11 @@ class APIConstant {
   static String get domain {
     switch (environment) {
       case Environment.staging:
-        return 'https://rvlsapp.tpots.in';
+        return '';
       case Environment.uat:
-        return 'https://uatcentral.cause-i.ai';
+        return '';
       case Environment.main:
-        return 'https://app.revalesuva.co.il';
+        return '';
     }
   }
 
